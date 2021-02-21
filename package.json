@@ -1,0 +1,23 @@
+{
+  "name": "rest-crypto-price-tracker",
+  "version": "1.0.0",
+  "description": "A node.js Restful API For crypto price tracking and processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "cryto",
+    "price",
+    "tracker",
+    "restful",
+    "api"
+  ],
+  "author": "Daniel Saneel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
